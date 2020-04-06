@@ -23,6 +23,6 @@ public class Main71 {
 
 		long result = t1 - t2;
 
-		System.out.println("Difference is " + result);
+		System.out.println("Difference is new data " + result);
 	}
 }
